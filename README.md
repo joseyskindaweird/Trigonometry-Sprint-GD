@@ -14,7 +14,7 @@ winget install --id Git.Git -e --source winget
 ```
 git clone https://github.com/strangetheproot/Trigonometry-Sprint-GD.git
 ```
-2. Open file explorer and follow the directions below.
+2. Open file explorer and follow the directions on how to apply the Texture pack.
 
 
 ## How to download the Resources on Linux:
