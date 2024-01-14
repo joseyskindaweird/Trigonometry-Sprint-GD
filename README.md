@@ -5,6 +5,7 @@
 
 
 # How to Download the Resources!
+(Temporary until full release comes out)
 
 ## How to download the Resources on Windows:
 1. Run these commands one by one:
