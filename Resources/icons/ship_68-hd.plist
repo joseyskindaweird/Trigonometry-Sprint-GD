@@ -9,13 +9,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{2,-4}</string>
                 <key>spriteSize</key>
-                <string>{82,43}</string>
+                <string>{81,39}</string>
                 <key>spriteSourceSize</key>
-                <string>{82,43}</string>
+                <string>{85,47}</string>
                 <key>textureRect</key>
-                <string>{{90,2},{82,43}}</string>
+                <string>{{13,47},{81,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,43 +24,43 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-14,0}</string>
+                <string>{2,-4}</string>
                 <key>spriteSize</key>
-                <string>{37,36}</string>
+                <string>{80,38}</string>
                 <key>spriteSourceSize</key>
-                <string>{65,36}</string>
+                <string>{84,46}</string>
                 <key>textureRect</key>
-                <string>{{174,2},{37,36}}</string>
+                <string>{{13,88},{80,38}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>ship_68_extra_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,2}</string>
+                <string>{5,3}</string>
                 <key>spriteSize</key>
-                <string>{74,15}</string>
+                <string>{54,9}</string>
                 <key>spriteSourceSize</key>
-                <string>{74,19}</string>
+                <string>{64,15}</string>
                 <key>textureRect</key>
-                <string>{{90,47},{74,15}}</string>
+                <string>{{2,47},{54,9}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>ship_68_glow_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{2,-4}</string>
                 <key>spriteSize</key>
-                <string>{86,47}</string>
+                <string>{85,43}</string>
                 <key>spriteSourceSize</key>
-                <string>{86,47}</string>
+                <string>{89,51}</string>
                 <key>textureRect</key>
-                <string>{{2,2},{86,47}}</string>
+                <string>{{2,2},{85,43}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -70,15 +70,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>icons/ship_68-hd.png</string>
             <key>size</key>
-            <string>{212,64}</string>
+            <string>{96,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0c68abb0386047957550f15fb4bc8fad:b3934ac3aee76bb44cc0ca9abbba48fb:09f2fadbed2ce7ddd7e48a4c0615540f$</string>
+            <string>$TexturePacker:SmartUpdate:4aff7be9ecda267c62ad98296f16eecb:00c00bab2873d669b73e2ef58fd82455:09f2fadbed2ce7ddd7e48a4c0615540f$</string>
             <key>textureFileName</key>
             <string>icons/ship_68-hd.png</string>
         </dict>

@@ -8355,7 +8355,7 @@
                 <key>spriteSourceSize</key>
                 <string>{28,25}</string>
                 <key>textureRect</key>
-                <string>{{353,173},{28,25}}</string>
+                <string>{{1607,521},{28,25}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -8411,11 +8411,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{25,28}</string>
+                <string>{25,31}</string>
                 <key>spriteSourceSize</key>
-                <string>{25,28}</string>
+                <string>{25,31}</string>
                 <key>textureRect</key>
-                <string>{{1607,521},{25,28}}</string>
+                <string>{{353,173},{25,31}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -8793,7 +8793,7 @@
             <key>size</key>
             <string>{1645,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:351cd786facd719589f10e78368b426a:5d4461e09ed2b7764f51f9e4ea84da38:f3d9aadc77ec9cef41327d513567cfe6$</string>
+            <string>$TexturePacker:SmartUpdate:73d65280899ccd2d678eb72f768f0d7a:9c018ecf15a88b1df5ee7a732c5abd10:f3d9aadc77ec9cef41327d513567cfe6$</string>
             <key>textureFileName</key>
             <string>GJ_GameSheet02-hd.png</string>
         </dict>

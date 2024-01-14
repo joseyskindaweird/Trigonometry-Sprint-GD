@@ -9,13 +9,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,3}</string>
                 <key>spriteSize</key>
-                <string>{150,62}</string>
+                <string>{162,72}</string>
                 <key>spriteSourceSize</key>
-                <string>{150,62}</string>
+                <string>{162,78}</string>
                 <key>textureRect</key>
-                <string>{{2,58},{150,62}}</string>
+                <string>{{174,2},{162,72}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,13 +24,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-28,0}</string>
+                <string>{0,3}</string>
                 <key>spriteSize</key>
-                <string>{86,54}</string>
+                <string>{160,68}</string>
                 <key>spriteSourceSize</key>
-                <string>{142,54}</string>
+                <string>{160,74}</string>
                 <key>textureRect</key>
-                <string>{{2,2},{86,54}}</string>
+                <string>{{338,2},{160,68}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,22 +45,22 @@
                 <key>spriteSourceSize</key>
                 <string>{122,196}</string>
                 <key>textureRect</key>
-                <string>{{154,2},{122,78}}</string>
+                <string>{{656,2},{122,78}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>bird_39_extra_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-29,0}</string>
+                <string>{0,4}</string>
                 <key>spriteSize</key>
-                <string>{60,54}</string>
+                <string>{154,46}</string>
                 <key>spriteSourceSize</key>
-                <string>{118,54}</string>
+                <string>{154,54}</string>
                 <key>textureRect</key>
-                <string>{{90,2},{60,54}}</string>
+                <string>{{500,2},{154,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -69,13 +69,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,3}</string>
                 <key>spriteSize</key>
-                <string>{158,70}</string>
+                <string>{170,80}</string>
                 <key>spriteSourceSize</key>
-                <string>{158,70}</string>
+                <string>{170,86}</string>
                 <key>textureRect</key>
-                <string>{{2,126},{158,70}}</string>
+                <string>{{2,2},{170,80}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -85,15 +85,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>icons/bird_39-uhd.png</string>
             <key>size</key>
-            <string>{234,198}</string>
+            <string>{780,84}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a1d5ec7265cc747ffd4ed26d8a431e08:7d909efcded31d452bffcdd0d3fba35f:25e03ee5427a733f81d6ce2a94ada4ad$</string>
+            <string>$TexturePacker:SmartUpdate:ca3fb4f686f4a48cae7bdbcd2aaf640d:fe3104329291536c27fd4f4c1a6366af:25e03ee5427a733f81d6ce2a94ada4ad$</string>
             <key>textureFileName</key>
             <string>icons/bird_39-uhd.png</string>
         </dict>

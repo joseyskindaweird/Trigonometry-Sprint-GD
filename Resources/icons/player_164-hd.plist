@@ -9,13 +9,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,2}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{60,69}</string>
+                <string>{64,62}</string>
                 <key>spriteSourceSize</key>
-                <string>{60,73}</string>
+                <string>{64,62}</string>
                 <key>textureRect</key>
-                <string>{{2,77},{60,69}}</string>
+                <string>{{2,70},{64,62}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,28 +24,43 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-1}</string>
+                <string>{0,13}</string>
                 <key>spriteSize</key>
-                <string>{47,46}</string>
+                <string>{56,30}</string>
                 <key>spriteSourceSize</key>
-                <string>{47,48}</string>
+                <string>{56,56}</string>
                 <key>textureRect</key>
-                <string>{{2,148},{47,46}}</string>
+                <string>{{68,70},{56,30}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
+            </dict>
+            <key>player_164_extra_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-6}</string>
+                <key>spriteSize</key>
+                <string>{35,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,39}</string>
+                <key>textureRect</key>
+                <string>{{72,2},{35,27}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>player_164_glow_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,2}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,73}</string>
+                <string>{68,66}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,77}</string>
+                <string>{68,66}</string>
                 <key>textureRect</key>
-                <string>{{2,2},{64,73}}</string>
+                <string>{{2,2},{68,66}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -55,15 +70,15 @@
             <key>format</key>
             <integer>3</integer>
             <key>pixelFormat</key>
-            <string>RGBA4444</string>
+            <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
             <string>icons/player_164-hd.png</string>
             <key>size</key>
-            <string>{68,196}</string>
+            <string>{101,134}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d1426588c05cab2c23b55e89c3b8f40c:7fe22004794490484f72d680e8c32b00:f44c663d208dc673b085532e0afc637a$</string>
+            <string>$TexturePacker:SmartUpdate:81a36f566974f77b181aa3b850871ce4:d4d7b0c25242fcb4921922693bc91aae:f44c663d208dc673b085532e0afc637a$</string>
             <key>textureFileName</key>
             <string>icons/player_164-hd.png</string>
         </dict>
